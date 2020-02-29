@@ -1,2 +1,2 @@
 # tic-tac-toe
-An Alice and wonderland themed tic-tac-toe game
+A (soon to be) Alice and wonderland themed tic-tac-toe game
