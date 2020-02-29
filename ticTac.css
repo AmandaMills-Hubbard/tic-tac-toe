@@ -1,0 +1,27 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  /* background-image: url(back.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: bottom; */
+  background-color: blue;
+}
+table{
+  height: 800px;
+  width: 90%;
+}
+table, tr, td{
+  border: 2px solid black;
+}
+table tr {
+  border: 2px solid black;
+}
+td{
+  width: 33.3333%;
+  color: white;
+}
+ td img{
+   height: 50px;
+ }
